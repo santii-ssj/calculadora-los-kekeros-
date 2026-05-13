@@ -6,5 +6,5 @@ LUCIO AGUIRRE
 
 #ESTADO DEL PROYECTO:
 EN PROCESO 
-santino pecho frio
+
 
