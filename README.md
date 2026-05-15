@@ -1,14 +1,4 @@
-# calculadora-los-kekeros-
-INTEGRANTES 5TOA
-LIDER: ESCOBAR SANTINO 
-EROS D´ANGELO 
-LUCIO AGUIRRE
-
-#ESTADO DEL PROYECTO:
-EN PROCESO 
-xd
-
-# Calculadora Equipo
+# Calculadora Los Kekeros anashe
 
 ## Integrantes
 
